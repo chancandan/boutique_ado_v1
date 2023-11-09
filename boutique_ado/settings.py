@@ -26,7 +26,7 @@ SECRET_KEY = 'p@ei#69*b*zz3u4yie-$()@cy^l(+x9&@6ypx+r0lm(3%_9hr7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEVELOPMENT' in os.environ
 
-ALLOWED_HOSTS = ['https://git.heroku.com/boutique-ado-chancandan.git', 'localhost']
+ALLOWED_HOSTS = ['boutique-ado-chancandan-3948ada19d19.herokuapp.com', 'localhost']
 
 
 # Application definition
